@@ -1,11 +1,10 @@
 ### Hi there, I'm Juan Mallet - aka [El Juank][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.juanmallet.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=juanmallet.com&style=for-the-badge&url=https%3A%2F%2Fjuanmallet.com)](https://www.juanmallet.com)
 
 ## I'm just a guy trying to code!!
 
-- 👨🏼‍💻 I’m currently learning everything
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Learn even more and start working
 - ⚡ Fun fact: I love to paint miniatures and refurbish retro consoles
