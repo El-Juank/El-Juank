@@ -5,7 +5,7 @@
 ## I'm just a guy trying to code!!
 
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate in some projects
 - 🥅 2021 Goals: Learn even more and start working
 - ⚡ Fun fact: I love to paint miniatures and refurbish retro consoles
 
