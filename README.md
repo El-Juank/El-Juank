@@ -11,7 +11,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-q7x622y8l.vercel.app/api/spotify" alt="El Juank Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[![Spotify](https://novatorem-q7x622y8l.vercel.app/api/spotify)](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
