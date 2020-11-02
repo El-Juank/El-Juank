@@ -1,6 +1,7 @@
 ### Hi there, I'm Juan Mallet - aka [El Juank][website] 👋
 
 [![Website](https://img.shields.io/website?label=juanmallet.com&style=for-the-badge&url=https%3A%2F%2Fjuanmallet.com)](https://www.juanmallet.com)
+[![linktree](https://img.shields.io/website?label=Linktree&style=for-the-badge&url=https://linktr.ee/el_juank)](https://linktr.ee/el_juank)
 
 ## I'm just a guy trying to code!!
 
@@ -44,8 +45,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎓 Proyecto final PiCE en [El-Juank/Gamespec](https://github.com/El-Juank/Gamespec)
-2. 🙋🏼‍♂️ Página web personal en [El-Juank/juanmallet.com](https://github.com/El-Juank/juanmallet.com)
+1. 🙋🏼‍♂️ Página web personal en [El-Juank/juanmallet.com](https://github.com/El-Juank/juanmallet.com)
+2. 🎓 Proyecto final PiCE en [El-Juank/Gamespec](https://github.com/El-Juank/Gamespec)
 <!--END_SECTION:activity-->
 
 </details>
@@ -53,7 +54,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=el-juank&show_icons=true&hide_border=true" />
+  <img align="left" alt="Juan "El Juank" Mallet's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=el-juank&show_icons=true&hide_border=true" />
 
 </details>
 
@@ -61,3 +62,5 @@
 [behance]: https://www.behance.net/juan_mallet
 [instagram]: https://www.instagram.com/el__juank/
 [linkedin]: https://www.linkedin.com/in/juan-mallet/
+[linktree]: https://linktr.ee/el_juank
+
