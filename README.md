@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate in some projects
-- 🥅 2021 Goals: Learn even more and start working
+- 🥅 2021 Goals: Learn even more and start working (as a programmer!*)
 - ⚡ Fun fact: I love to paint miniatures and refurbish retro consoles
 
 ### Spotify Playing 🎧
@@ -49,7 +49,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🙋🏼‍♂️ Página web personal en [El-Juank/juanmallet.com](https://github.com/El-Juank/juanmallet.com)
+1. ⭐️ Coolture en [El-Juank/Coolture](https://github.com/El-Juank/Coolture)
+2. 🙋🏼‍♂️ Página web personal en [El-Juank/juanmallet.com](https://github.com/El-Juank/juanmallet.com)
 2. 🎓 Proyecto final PiCE en [El-Juank/Gamespec](https://github.com/El-Juank/Gamespec)
 <!--END_SECTION:activity-->
 
